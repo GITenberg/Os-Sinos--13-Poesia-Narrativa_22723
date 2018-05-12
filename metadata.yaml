@@ -17,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/Raul_Proen%C3%A7a
     - http://pt.wikipedia.org/wiki/Ra%C3%BAl_Proen%C3%A7a
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22723#Os-Sinos--13-Poesia-Narrativa
 gutenberg_bookshelf: PT Poesia
 gutenberg_issued: '2007-09-22'
 gutenberg_type: Text
