@@ -1,0 +1,37 @@
+_repo: Os-Sinos--13-Poesia-Narrativa_22723
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Proença, Raul Sangreman
+    aliases:
+    - Proença, Raúl
+    - Proenca, Raul
+    birthdate: 1884
+    deathdate: 1941
+    gutenberg_agent_id: '25506'
+    url: http://www.gutenberg.org/2009/agents/25506
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Raul_Proen%C3%A7a
+    - http://pt.wikipedia.org/wiki/Ra%C3%BAl_Proen%C3%A7a
+description: ''
+gutenberg_bookshelf: PT Poesia
+gutenberg_issued: '2007-09-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22723'
+language: pt
+language_note: This ebook uses a beginning of the 20th century spelling
+production_note: Produced by Vasco Salgado
+publication_note: "Alcobaça:\r\nTypographia e Papelaria de Antonio M. d'Oliveira\r\
+  \nRua de Santo Antonio, 14, 16 e 18\r\n1908"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PQ'
+title: "Os Sinos\r\nPoesia Narrativa"
+url: http://www.gutenberg.org/ebooks/22723
